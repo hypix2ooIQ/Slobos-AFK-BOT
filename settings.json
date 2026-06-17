@@ -8,7 +8,7 @@
   "server": {
     "ip": "Abschluss.aternos.me",
     "port": 38160,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
